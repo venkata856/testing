@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "for testing purpose",
+  "main": "sum.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0"
+  }
+}
